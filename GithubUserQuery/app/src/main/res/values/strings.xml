@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GithubUserQuery</string>
+    <string name="et_hint">请输入查询的用户名关键字</string>
+    <string name="bt_query_text">查询用户信息</string>
+    <string name="tv_name_default">用户名：</string>
+    <string name="tv_icon_default">用户头像：</string>
+    <string name="tv_language_default">用户的编程语言偏好：</string>
+</resources>
